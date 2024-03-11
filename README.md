@@ -1,4 +1,4 @@
 # Lab2
 # Zhanel Nurkhabanova
-## Student ID: <s25717>
+## Student ID: s<25717>
 ## Group Number: <13>
